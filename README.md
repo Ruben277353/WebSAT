@@ -1,11 +1,4 @@
-<p style=" padding: 30px;
-  letter-spacing: 0.3em;
-  border: 5px solid;
-  border-image: linear-gradient(20deg, #f92056 46%, #00deff 65%);
-  border-image-slice: 1;
-  text-align:center;
-  font-size:40px;">
-WebSAT</p>
+<p style="font-size:40px;">WebSAT</p>
     
 <h1>MiniPortfolio</h1>
 <img src="MiniPortfolio/15.png">
