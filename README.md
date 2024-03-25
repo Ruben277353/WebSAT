@@ -1,7 +1,7 @@
-<p style="font-size:40px;">WebSAT</p>
+<h1>WebSAT</h1>
     
-<h1>MiniPortfolio</h1>
+<h2>MiniPortfolio</h2>
 <img src="MiniPortfolio/15.png">
 
-<h1>Test</h1>
+<h2>Test</h2>
 <img src="Test/15.png">
