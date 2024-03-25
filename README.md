@@ -1,4 +1,7 @@
-<style type="text/css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style type="text/css">
   .gradient-border {
   padding: 30px;
   letter-spacing: 0.3em;
@@ -7,8 +10,17 @@
   border-image-slice: 1;
   text-align:center;
   font-size:40px;
-    
-<p class="gradient-border">WebSAT</p>
+
+}
+}
+    </style>
+</head>
+<body>
+   <p class="gradient-border">WebSAT</p>
+
+
+</body>
+</html>
     
 <h1>MiniPortfolio</h1>
 <img src="MiniPortfolio/15.png">
