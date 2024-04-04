@@ -4,7 +4,7 @@
 <img src="MiniPortfolio/15.png">
 
 <h2>BankCard</h2>
-<img src="BankCard/OS.png">
+<img src="BankCard/Os.png">
 
 <h2>Test</h2>
 <img src="Test/15.png">
