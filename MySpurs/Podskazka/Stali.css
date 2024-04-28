@@ -1,0 +1,121 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    background: url("") no-repeat;
+    background: #423c2d;
+    background-size: cover;
+    background-position: center;                                        
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.board{
+    border-radius:8px;
+    margin:5px 8px;
+    padding:15px;
+    width:260px;
+    color:#fff;
+    display:flex;
+    flex-direction:column;
+}
+
+.board-title{
+    font-size:25px;
+    font-weight:bold;
+    padding-right:10px;
+    margin-bottom:5px;
+    text-align:center;
+    border-bottom:1px solid #ccc;
+    padding-bottom:3px;
+}
+.board-card{
+    margin-bottom:15px;
+    word-break:break-all
+}
+.board-card a{
+    font-size:12px;
+    color:#fff;
+    text-decoration:none;
+    display:block;
+}
+.board-card a:hover{
+    background:#ccc;
+    color:#000;
+}
+.board-card-title{
+    font-size:17px;
+    font-weight:bold;
+    color:#f4fcbb
+}
+.board-card h3.inactive{
+    color:#666;
+}
+.board-card li.tip{
+    color:#999;
+    padding-left:15px;
+    font-size:13px;
+    font-style:italic;}
+.board-card li.inactive {
+    color:#666;
+    cursor:default;
+}
+.board-card li.inactive a{
+    color:#666;
+    cursor:default;
+}
+.board-card li.inactive a:hover{
+    color:#666;
+    background:none;
+}
+
+#navbar{
+    position:fixed;
+    background:#000;
+    background:rgba(0,0,0,0.6);
+    height:40px;
+    line-height:40px;
+    color:#999;
+    width:100%;
+    filter:alpha(opacity=60); z-index:100;
+    display: block;
+    flex-wrap: wrap;
+}
+#navbar a{
+    color:#999;
+    text-decoration:none;
+    font-size:18px;
+    outline:none;
+    display: block;
+    flex-wrap: wrap;
+}
+#navbar a#logo{
+    color:#fff;
+    font-size:28px;
+    font-weight:bold;
+    float:left;
+    margin-right:20px;
+    margin-left:15px;
+    display: block;
+    flex-wrap: wrap;
+}
+.nav li{
+    float:left;
+    margin-right:5px;
+    padding:0 5px;
+    display: block;
+    flex-wrap: wrap;
+}
+.nav li a{
+    display:block;
+    flex-wrap: wrap;
+}
+
